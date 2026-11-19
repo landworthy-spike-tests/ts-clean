@@ -1,0 +1,4 @@
+stack = "ts"
+shape = "clean"
+protection = "required-check"
+expect = "pnpm test"
