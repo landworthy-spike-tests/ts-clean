@@ -1,0 +1,6 @@
+version = 1
+stack = "ts"
+install = "pnpm install --frozen-lockfile"
+battery = "pnpm test"
+working_directory = "."
+queue_on = "label"
